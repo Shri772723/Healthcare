@@ -1,0 +1,57 @@
+.cust-log-in-main-bg{
+/* background-image:url('./assets/images/home/d1.jpg'); */
+background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+}
+
+
+
+.cust-top-head{
+
+    display:flex;
+    height:100px;
+    width:100%;
+    /* background-color:#000000; */
+    position:fixed;
+    flex-direction:row;
+    flex-wrap:flex;
+    justify-content:space-between
+    
+
+}
+
+.cust-top-logo{
+ justify-content:start;
+ width:115px;
+ margin-left:30px;
+
+}
+.cust-top-button{
+    justify-content:end;
+padding:30px;
+
+  
+}
+.login-nav-link{
+    padding: 10px 12px;
+    float: left;
+    margin-right: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;}
+
+    .sign-up-btn {
+        
+        background: #00977930;
+        border-radius: 6px;
+        right: 10px;
+        padding: 8px 30px;
+        font-size: 15px;
+}
+.sign-up-btn a{
+    color:  #009779;
+    
+}
